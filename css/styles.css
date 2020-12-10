@@ -10238,10 +10238,3 @@ form .row:first-child .floating-label-form-group {
 .copyright {
   background-color: #1a252f;
 }
-
-canvas {
-    display: block;
-    width: 100vw;
-    height: 100vh;
-    cursor: grab;
-}
